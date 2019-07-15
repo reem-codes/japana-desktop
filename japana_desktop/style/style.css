@@ -1,0 +1,22 @@
+.body {
+  background-color: #fefefe; }
+
+.QPushButton {
+  padding: 10px;
+  color: #2e2c2f;
+  border-color: #ffecfb;
+  background-color: #ffecfb; }
+  .QPushButton:hover {
+    border-color: #ffb7c5;
+    background-color: #ffb7c5; }
+
+.QLabel {
+  padding: 16px;
+  color: #2e2c2f;
+  font-weight: bold; }
+
+.files {
+  color: #729b79;
+  font-weight: normal; }
+
+/*# sourceMappingURL=style.css.map */

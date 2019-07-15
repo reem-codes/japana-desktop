@@ -1,0 +1,31 @@
+$white: #fefefe;
+$black: #2e2c2f;
+$cherry: #ffb7c5;
+$green: #729b79;
+$gray: #ffecfb;
+
+
+.body {
+  background-color: $white;
+}
+.QPushButton {
+  padding: 10px;
+  color: $black;
+  border-color: $gray;
+  background-color: $gray;
+  &:hover {
+    border-color: $cherry;
+    background-color: $cherry;
+  }
+}
+
+.QLabel {
+  padding: 16px;
+  color: $black;
+  font-weight: bold;
+}
+.files {
+  color: $green;
+  font-weight: normal;
+
+}
