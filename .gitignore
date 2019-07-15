@@ -1,5 +1,8 @@
 logs
 venv
 .idea
-japana_desktop/__pycache__
-japana_desktop/style/style.css.map
+__pycache__
+style/style.css.map
+build
+dist
+jamdict

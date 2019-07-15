@@ -3,7 +3,7 @@ import os
 from PyQt5.QtWidgets import (QWidget, QPushButton, QHBoxLayout, QLabel, QRadioButton, QCheckBox, QProgressBar,
                              QVBoxLayout, QApplication, QGridLayout, QFileDialog, QMessageBox)
 from PyQt5.QtCore import Qt
-from japana_desktop.process import process
+from process import process
 
 
 class Main(QWidget):
